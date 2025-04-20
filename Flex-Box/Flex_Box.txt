@@ -1,0 +1,11 @@
+Flexbox is a one-dimensional layout method for arranging items in rows or columns. Items flex (expand) to fill additional space or shrink to fit into smaller spaces. This article explains all the fundamentals.
+
+Flex Box Use
+1- display: flex;
+2- flex-direction
+3- flex-wrap
+4- justify-content: start , end , center , space-around , space-between , space-evenly //justify-content main-axis pe hota i.e horizontal axis
+5- align-items: start , end , center , stetch
+6- order:{numebr} //Jiska number jitna badha hoga vo utna piche ayega. 
+7- flex-shrink:{numer} eg - flex-shrink:3 \\iska mtlb hai ki element 4x se shrink karega 
+8- flex-grow:{number}
